@@ -79,10 +79,10 @@ Understood variable references and memory behavior.
 
 ## Files
 
-| File               | Description                    |
-| ------------------ | ------------------------------ |
-| ex_1.py            | Variables practice             |
-| ex_2.py            | Data types practice            |
-| ex_3.py            | Variable swapping              |
-| ex_4.py            | Memory reference understanding |
-| lesson_01_notes.md | Detailed lesson notes          |
+| File                     | Description                    |
+|--------------------------| ------------------------------ |
+| ex_1.py                  | Variables practice             |
+| ex_2.py                  | Data types practice            |
+| ex_3.py                  | Variable swapping              |
+| ex_4.py                  | Memory reference understanding |
+| VariablesAndDataTypes.md | Detailed lesson notes          |
