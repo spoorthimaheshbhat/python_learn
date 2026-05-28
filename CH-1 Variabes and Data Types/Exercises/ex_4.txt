@@ -1,0 +1,20 @@
+Exercise 4 (Thinking Exercise)
+
+Predict output before running:
+
+x = 10
+y = x
+x = 20
+
+print(y)
+
+output: 10
+
+Why?
+
+explanation:
+x is allocated 10
+y is allocated with number stored in x = 10
+x is reallocated 20
+y still holds 10 from previous allocation
+
