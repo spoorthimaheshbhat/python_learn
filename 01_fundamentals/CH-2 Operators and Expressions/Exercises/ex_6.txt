@@ -1,0 +1,25 @@
+Exercise 6 — Identity Operators
+
+Predict output BEFORE running:
+
+a = [1, 2, 3]
+b = a
+c = [1, 2, 3]
+
+print(a is b)  # TRUE
+print(a is c)  # FALSE
+print(a == c)  # TRUE
+
+explanation: All 3 operators return boolean values and,
+here a and c are assigned the same list but stored in different memory blocks
+b is assigned the value stored in a - both call the same memory block
+This implies all 3 variables have the same value but different storage blocks
+
+is operator (Comparison - is it the same entity) checks if the values are calling the same memory block
+and == operator (Comparison - value check) checks if the assigned values are same.
+
+therefore, the output is:
+
+TRUE
+FALSE
+TRUE
