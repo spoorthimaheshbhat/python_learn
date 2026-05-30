@@ -1,0 +1,9 @@
+Predict output BEFORE running:
+
+text = "Python"
+text[0] = "J"
+
+print(text)
+
+o/p:
+ERROR - String is immutable. String is a sequence of characters however, once created the characters of the string cannot be manipulated directly i.e. it is immutable

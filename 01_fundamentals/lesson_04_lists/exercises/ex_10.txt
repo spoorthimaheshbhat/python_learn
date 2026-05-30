@@ -1,0 +1,11 @@
+Predict output BEFORE running:
+
+text = "Python"
+items = [1, 2, 3]
+
+text[0] = "J"  #here, we will get an error since strings are immutable. Once declared they cannot be manipulated directly.
+items[0] = 100  #Lists are mutable, hence this line will not throw an error
+
+print(text)
+print(items)
+
