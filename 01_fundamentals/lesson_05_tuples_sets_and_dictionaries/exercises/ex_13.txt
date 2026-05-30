@@ -1,0 +1,11 @@
+Predict output BEFORE running:
+
+my_tuple = (1, 2, 3) # this is an immutable collection (tuple)
+my_list = [1, 2, 3] # this is a mutable collection (list)
+
+my_list[0] = 100 # adds 100 at index 0 since lists can be modified after declaration
+my_tuple[0] = 100 # TypeError - cannot modify a tuple once declared
+
+print(my_list)
+print(my_tuple)
+

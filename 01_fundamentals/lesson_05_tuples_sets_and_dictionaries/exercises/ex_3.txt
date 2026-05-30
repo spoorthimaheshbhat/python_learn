@@ -1,0 +1,7 @@
+Predict output BEFORE running and Explain why.:
+
+numbers = (1, 2, 3)
+
+numbers[0] = 100  # TypeError - tuples are immutable
+
+print(numbers)
