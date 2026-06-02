@@ -1,0 +1,32 @@
+Predict outputs BEFORE running:
+
+A)
+x = ""
+
+if x:
+    print("A")
+else:
+    print("B")
+
+o/p: B   - empty string returns False (default python assignment)
+
+B)
+x = [1]
+
+if x:
+    print("A")
+else:
+    print("B")
+
+o/p: A   - list x contains a value x[0] = 1, hence returns True ([] - empty lists return False)
+
+C
+x = 0
+
+if x:
+    print("A")
+else:
+    print("B")
+
+o/p: B   - x is assigned zero, hence returns False (default python assignment)
+
