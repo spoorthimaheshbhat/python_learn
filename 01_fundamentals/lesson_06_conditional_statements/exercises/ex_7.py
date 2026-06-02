@@ -17,9 +17,9 @@ if age > 110 or age <= 0:
     print("Invalid age")
 elif age < 5:
     print("Ticket Price: Free")
-elif 5 <= age <= 17:
+elif age <= 17:
     print("Ticket Price: Rs. 100")
-elif 17 < age <= 59:
+elif age <= 59:
     print("Ticket Price: Rs. 200")
 else:
     print("Ticket Price: Rs. 150")
