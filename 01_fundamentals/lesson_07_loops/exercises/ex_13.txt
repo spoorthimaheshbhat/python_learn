@@ -1,0 +1,17 @@
+Predict output BEFORE running:
+
+for i in range(5): # implies i = 0, loops 5 times (0-4)
+    if i == 2:
+        continue # implies skip this loop and continue to the next. Therefore, 2 is skipped in output
+
+    if i == 4:
+        break # implies stop here and break out of the loop. So 4 is not printed and the loop halts.
+
+    print(i)
+
+Explain carefully.
+
+o/p:
+0
+1
+3
