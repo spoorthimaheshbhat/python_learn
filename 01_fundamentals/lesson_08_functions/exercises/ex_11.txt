@@ -1,0 +1,16 @@
+Predict output BEFORE running:
+
+x = 100  # x is assigned 100
+
+def test(): # test is a function with no arguments
+    x = 50  # x within the function (local) is assigned 50
+    print(x) # Prints x value stored locally within the function
+
+test() # 50
+print(x) # 100
+
+Explain carefully.
+
+o/p:
+50
+100
