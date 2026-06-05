@@ -1,0 +1,16 @@
+Predict BEFORE running:
+
+try:
+    print(int("abc")) # This throws a ValueError - string passed for an Int value
+
+except ValueError: # exception is raised here
+    print("A") # Prints A
+
+finally: # gets executed always
+    print("B") # Prints B
+
+Explain carefully.
+
+o/p:
+A
+B

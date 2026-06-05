@@ -29,5 +29,3 @@ action = input("Enter action (add, subtract, multipy, divide): ").lower()
 
 result = calculator(x, y, action)
 print(f"Result: {result}")
-
-
