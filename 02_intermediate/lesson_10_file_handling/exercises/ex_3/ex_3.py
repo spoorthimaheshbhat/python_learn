@@ -9,7 +9,8 @@ def action(file_name):
     status = "Read fail"
     try:
         with open(file_name, "r") as read_file:
-            addition = read_file.read()
+            read_file.read()
+            # print(addition)
             status = "Read Success"
             return status
 
