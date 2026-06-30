@@ -1,0 +1,14 @@
+NAME: Andy Chris
+EMPLOYEE NUMBER: 1232300909
+Punch In successful
+Punch Out successful
+
+NAME: Rubina Nany
+EMPLOYEE NUMBER: 23233900
+Punch In missed
+
+NAME: Deva
+EMPLOYEE NUMBER: 884776583
+Punch In successful
+Punch Out Missed
+

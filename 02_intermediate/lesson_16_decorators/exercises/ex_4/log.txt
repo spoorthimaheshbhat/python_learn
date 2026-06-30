@@ -1,0 +1,10 @@
+Registration,Success
+Login,Success
+Registration,Success
+Registration,Success
+Login,Fail
+Login,Success
+Logout,Success
+Registration,Success
+Login,Success
+Logout,Success

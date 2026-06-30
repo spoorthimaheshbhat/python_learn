@@ -1,0 +1,8 @@
+Current Transactions:
+Credited: 1240.0
+Credited: 35.99
+Credited: 15000.0
+Credited: 467.99
+Credited: 377.0
+Debited: 384.0
+Debited: 4567.0
