@@ -1,0 +1,37 @@
+[
+    {
+        "employee_name": "Sara Mill",
+        "employee_ID": 123001,
+        "employee_department": "HR_01",
+        "employee_type": 1,
+        "employee_status": "Active"
+    },
+    {
+        "employee_name": "Jess",
+        "employee_ID": 123002,
+        "employee_department": "SWE_02",
+        "employee_type": 11,
+        "employee_status": "Active"
+    },
+    {
+        "employee_name": "Kelly Mill",
+        "employee_ID": 123003,
+        "employee_department": "FIN_01",
+        "employee_type": 1,
+        "employee_status": "Active"
+    },
+    {
+        "employee_name": "Fanna Khan",
+        "employee_ID": 123004,
+        "employee_department": "IT_18",
+        "employee_type": 21,
+        "employee_status": "Inactive"
+    },
+    {
+        "employee_name": "Kyla Star",
+        "employee_ID": 123005,
+        "employee_department": "SWE_12",
+        "employee_type": 1,
+        "employee_status": "Active"
+    }
+]

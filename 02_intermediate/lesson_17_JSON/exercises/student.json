@@ -1,0 +1,20 @@
+[
+    {
+        "name": "John",
+        "course": "Python",
+        "marks": 95,
+        "city": "NY"
+    },
+    {
+        "name": "Jinny",
+        "course": "SQL",
+        "marks": 85,
+        "city": "LA"
+    },
+    {
+        "name": "Joslynn",
+        "course": "Playwright",
+        "marks": 96.8,
+        "city": "LA"
+    }
+]

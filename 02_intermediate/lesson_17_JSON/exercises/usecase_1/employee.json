@@ -1,0 +1,9 @@
+[
+    {
+        "employee_name": "Kiara Myers",
+        "employee_ID": 123001,
+        "employee_department": "HR_01",
+        "employee_type": 1,
+        "employee_status": "Active"
+    }
+]
