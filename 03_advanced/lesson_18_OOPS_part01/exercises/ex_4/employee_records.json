@@ -1,0 +1,50 @@
+[
+    {
+        "employee_name": "Justin Kane",
+        "employee_ID": "EMP001",
+        "department": "HR_01",
+        "status": "ACTIVE"
+    },
+    {
+        "employee_name": "Joe Dune",
+        "employee_ID": "EMP002",
+        "department": "FIN_01",
+        "status": "ACTIVE"
+    },
+    {
+        "employee_name": "Mary Kim",
+        "employee_ID": "EMP003",
+        "department": "SWE_01",
+        "status": "ACTIVE"
+    },
+    {
+        "employee_name": "Harry Konna",
+        "employee_ID": "EMP004",
+        "department": "HR_01",
+        "status": "INACTIVE"
+    },
+    {
+        "employee_name": "Travis Kin",
+        "employee_ID": "EMP005",
+        "department": "SWE_02",
+        "status": "ACTIVE"
+    },
+    {
+        "employee_name": "Ginny Casey",
+        "employee_ID": "EMP006",
+        "department": "HR_03",
+        "status": "ACTIVE"
+    },
+    {
+        "employee_name": "Kole Sweeny",
+        "employee_ID": "EMP007",
+        "department": "FIN_12",
+        "status": "ACTIVE"
+    },
+    {
+        "employee_name": "Ganna Maui",
+        "employee_ID": "EMP008",
+        "department": "SWE_09",
+        "status": "INACTIVE"
+    }
+]

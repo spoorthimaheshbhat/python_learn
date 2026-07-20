@@ -1,0 +1,50 @@
+[
+    {
+        "student_name": "Justin Kane",
+        "student_ID": "1BU001",
+        "marks": 92.00,
+        "result": "PASS"
+    },
+    {
+        "student_name": "Joe Dune",
+        "student_ID": "1BU002",
+        "marks": 59.8,
+        "result": "PASS"
+    },
+    {
+        "student_name": "Mary Kim",
+        "student_ID": "1BU003",
+        "marks": 30.33,
+        "result": "PASS"
+    },
+    {
+        "student_name": "Harry Konna",
+        "student_ID": "1BU004",
+        "marks": 89.00,
+        "result": "PASS"
+    },
+    {
+        "student_name": "Travis Kin",
+        "student_ID": "1BU005",
+        "marks": 99.07,
+        "result": "PASS"
+    },
+    {
+        "student_name": "Ginny Casey",
+        "student_ID": "1BU006",
+        "marks": 18.03,
+        "result": "FAIL"
+    },
+    {
+        "student_name": "Kole Sweeny",
+        "student_ID": "1BU007",
+        "marks": 26.2,
+        "result": "FAIL"
+    },
+    {
+        "student_name": "Ganna Maui",
+        "student_ID": "1BU008",
+        "marks": 70.00,
+        "result": "PASS"
+    }
+]

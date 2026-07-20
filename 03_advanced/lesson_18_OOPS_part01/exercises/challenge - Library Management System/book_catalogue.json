@@ -1,0 +1,44 @@
+[
+    {
+        "book_id": "FIC_001",
+        "title": "Henry On The Bus",
+        "author": "Henry George",
+        "availability": true
+    },
+    {
+        "book_id": "N_FIC_001",
+        "title": "Heroes Of India",
+        "author": "Jai Shankar Ram",
+        "availability": true
+    },
+    {
+        "book_id": "N_FIC_002",
+        "title": "In The Jungle",
+        "author": "Sara",
+        "availability": false
+    },
+    {
+        "book_id": "EDU_011",
+        "title": "Mathematics 101",
+        "author": "R K Shiv",
+        "availability": false
+    },
+    {
+        "book_id": "EDU_012",
+        "title": "Science 101",
+        "author": "Megan Siri",
+        "availability": false
+    },
+    {
+        "book_id": "INF_010",
+        "title": "Map Of India",
+        "author": "N/A",
+        "availability": false
+    },
+    {
+        "book_id": "FIC_003",
+        "title": "Levy Chance",
+        "author": "Koby",
+        "availability": false
+    }
+]
